@@ -1,0 +1,1189 @@
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.FirstCustomControl.resources
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.GenerateResource.Cache
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.MySecondCustmControl.resources
+S:\UI\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+S:\UI\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+S:\UI\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+S:\UI\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csprojAssemblyReference.cache
+S:\UI\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+S:\UI\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+S:\UI\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.GenerateResource.cache
+S:\UI\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+S:\UI\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+S:\UI\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Menu.resources
+S:\UI\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Home.resources
+S:\UI\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Item.resources
+S:\UI\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.PicItem.resources
+S:\UI\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Manager.resources
+S:\UI\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Products.resources
+S:\UI\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DetailProduct.resources
+S:\UI\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Login.resources
+S:\UI\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Employee.resources
+S:\UI\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DetailEmployee.resources
+S:\UI\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Bill.resources
+S:\UI\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DetailBill.resources
+D:\UI\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+D:\UI\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+D:\UI\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+D:\UI\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csprojAssemblyReference.cache
+D:\UI\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Bill.resources
+D:\UI\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DetailBill.resources
+D:\UI\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DetailEmployee.resources
+D:\UI\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DetailProduct.resources
+D:\UI\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Employee.resources
+D:\UI\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+D:\UI\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Home.resources
+D:\UI\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Item.resources
+D:\UI\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Login.resources
+D:\UI\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Manager.resources
+D:\UI\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Menu.resources
+D:\UI\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.PicItem.resources
+D:\UI\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Products.resources
+D:\UI\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+D:\UI\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.GenerateResource.cache
+D:\UI\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.CoreCompileInputs.cache
+D:\UI\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+D:\UI\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+D:\UI\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Salaries.resources
+D:\UI\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Absented.resources
+D:\Git\Windows-form\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csprojAssemblyReference.cache
+D:\Git\Windows-form\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Bill.resources
+D:\Git\Windows-form\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DetailBill.resources
+D:\Git\Windows-form\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DetailEmployee.resources
+D:\Git\Windows-form\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DetailProduct.resources
+D:\Git\Windows-form\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Employee.resources
+D:\Git\Windows-form\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+D:\Git\Windows-form\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Home.resources
+D:\Git\Windows-form\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Item.resources
+D:\Git\Windows-form\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Login.resources
+D:\Git\Windows-form\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Manager.resources
+D:\Git\Windows-form\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Menu.resources
+D:\Git\Windows-form\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.PicItem.resources
+D:\Git\Windows-form\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Products.resources
+D:\Git\Windows-form\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+D:\Git\Windows-form\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Revenue.resources
+D:\Git\Windows-form\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Salaries.resources
+D:\Git\Windows-form\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.GenerateResource.cache
+D:\Git\Windows-form\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.CoreCompileInputs.cache
+D:\Git\Windows-form\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+D:\Git\Windows-form\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+D:\Git\Windows-form\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+D:\Git\Windows-form\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+D:\Git\Windows-form\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\EnvDTE.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\stdole.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.MSXML.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.xml
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csprojAssemblyReference.cache
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Bill.resources
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DetailBill.resources
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DetailEmployee.resources
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DetailProduct.resources
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Employee.resources
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Home.resources
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Item.resources
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Login.resources
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Manager.resources
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Menu.resources
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.PicItem.resources
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Products.resources
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Revenue.resources
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Salaries.resources
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.GenerateResource.cache
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.CoreCompileInputs.cache
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.CopyComplete
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\RdlCompile.cache
+D:\IT\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\RdlCompile.compiled
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\EnvDTE.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\stdole.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.MSXML.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Bill.resources
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DetailBill.resources
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DetailEmployee.resources
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DetailProduct.resources
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Employee.resources
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Home.resources
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Item.resources
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Login.resources
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Manager.resources
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Menu.resources
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.PicItem.resources
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Products.resources
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Revenue.resources
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Salaries.resources
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\RdlCompile.cache
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\RdlCompile.compiled
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.CopyComplete
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+C:\Users\DELL\Downloads\Compressed\Windowform_finalprojec\Windowform_finalproject\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DashBoard.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\EnvDTE.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\stdole.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.MSXML.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.xml
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csprojAssemblyReference.cache
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Bill.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DashBoard.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DetailBill.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DetailEmployee.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DetailProduct.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Employee.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Home.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Item.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Login.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Manager.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Menu.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.PicItem.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Products.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Revenue.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Salaries.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.GenerateResource.cache
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\obj\Debug\RdlCompile.cache
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\obj\Debug\RdlCompile.compiled
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.CoreCompileInputs.cache
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.CopyComplete
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Windowform_finalproject_finish ado\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csprojAssemblyReference.cache
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Bill.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DashBoard.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DetailBill.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DetailEmployee.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DetailProduct.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Employee.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Home.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Item.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Login.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Manager.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Menu.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.PicItem.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Products.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Revenue.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Salaries.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.GenerateResource.cache
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\obj\Debug\RdlCompile.cache
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\obj\Debug\RdlCompile.compiled
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.CoreCompileInputs.cache
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\EnvDTE.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\stdole.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.MSXML.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.xml
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.CopyComplete
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\EnvDTE.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\stdole.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.MSXML.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.xml
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csprojAssemblyReference.cache
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Bill.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DashBoard.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DetailBill.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DetailEmployee.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DetailProduct.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Employee.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Home.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Item.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Login.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Manager.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Menu.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.PicItem.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Products.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Revenue.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Salaries.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.GenerateResource.cache
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\obj\Debug\RdlCompile.cache
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\obj\Debug\RdlCompile.compiled
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.CoreCompileInputs.cache
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.CopyComplete
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_anpart\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csprojAssemblyReference.cache
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Bill.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DashBoard.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DetailEmployee.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DetailProduct.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Employee.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Home.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Item.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Login.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Manager.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Menu.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.PicItem.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Products.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Revenue.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Salaries.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.GenerateResource.cache
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\RdlCompile.cache
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\RdlCompile.compiled
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.CoreCompileInputs.cache
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\EnvDTE.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\stdole.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.MSXML.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.xml
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.CopyComplete
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\EnvDTE.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\stdole.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.MSXML.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.xml
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csprojAssemblyReference.cache
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Bill.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DashBoard.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DetailEmployee.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DetailProduct.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Employee.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Home.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Item.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Login.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Manager.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Menu.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.PicItem.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Products.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Revenue.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Salaries.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.GenerateResource.cache
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\RdlCompile.cache
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\RdlCompile.compiled
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.CoreCompileInputs.cache
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.CopyComplete
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\NOP\Wdw_finalproject_linQ_gộp\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.SqlServer.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.Common.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.Design.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.SqlServer.Types.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\EnvDTE.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\stdole.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\EnvDTE80.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\VSLangProj.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\VSLangProj80.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\Newtonsoft.Json.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.MSXML.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\VSLangProj2.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.xml
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.SqlServer.xml
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+S:\UI\mới\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csprojAssemblyReference.cache
+S:\UI\mới\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Bill.resources
+S:\UI\mới\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DashBoard.resources
+S:\UI\mới\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DetailEmployee.resources
+S:\UI\mới\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DetailProduct.resources
+S:\UI\mới\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Employee.resources
+S:\UI\mới\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+S:\UI\mới\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Home.resources
+S:\UI\mới\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Item.resources
+S:\UI\mới\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Login.resources
+S:\UI\mới\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Manager.resources
+S:\UI\mới\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Menu.resources
+S:\UI\mới\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.PicItem.resources
+S:\UI\mới\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Products.resources
+S:\UI\mới\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+S:\UI\mới\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Revenue.resources
+S:\UI\mới\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Salaries.resources
+S:\UI\mới\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.GenerateResource.cache
+S:\UI\mới\FastFoodDemo\FastFoodDemo\obj\Debug\RdlCompile.cache
+S:\UI\mới\FastFoodDemo\FastFoodDemo\obj\Debug\RdlCompile.compiled
+S:\UI\mới\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.CopyComplete
+S:\UI\mới\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+S:\UI\mới\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\EnvDTE.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\stdole.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.MSXML.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.xml
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csprojAssemblyReference.cache
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Bill.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DashBoard.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DetailEmployee.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DetailProduct.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Employee.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Home.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Item.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Login.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Manager.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Menu.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.PicItem.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Products.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Revenue.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Salaries.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Shift.resources
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.GenerateResource.cache
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\obj\Debug\RdlCompile.cache
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\obj\Debug\RdlCompile.compiled
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.CoreCompileInputs.cache
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.CopyComplete
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+D:\IT\Nam 2\HK2\Win\CuoiKi_DoAn\FastFoodDemo_Tien_fixed\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\EnvDTE.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\stdole.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\EnvDTE80.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\VSLangProj.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\VSLangProj80.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\VSLangProj2.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.xml
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csprojAssemblyReference.cache
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Bill.resources
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DashBoard.resources
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DetailEmployee.resources
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DetailProduct.resources
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Employee.resources
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Home.resources
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Item.resources
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Login.resources
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Manager.resources
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Menu.resources
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.PicItem.resources
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Products.resources
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Revenue.resources
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Salaries.resources
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Shift.resources
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.GenerateResource.cache
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\RdlCompile.cache
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\RdlCompile.compiled
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.CopyComplete
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+C:\Users\Thi3n\Downloads\FileRAR_FINISHED-20200702T053850Z-001\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\EnvDTE.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\stdole.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\Microsoft.MSXML.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.xml
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csprojAssemblyReference.cache
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Bill.resources
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DashBoard.resources
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DetailEmployee.resources
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DetailProduct.resources
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Employee.resources
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Home.resources
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Item.resources
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Login.resources
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Manager.resources
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Menu.resources
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.PicItem.resources
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Products.resources
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Revenue.resources
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Salaries.resources
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Shift.resources
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.GenerateResource.cache
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\RdlCompile.cache
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\RdlCompile.compiled
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.CoreCompileInputs.cache
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.CopyComplete
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+D:\IT\Nam 2\HK2\Win\BAOCAOCUOIKI\FileRAR_FINISHED\FileRAR_FINISHED\FastFoodDemo_LINQ\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.pdb

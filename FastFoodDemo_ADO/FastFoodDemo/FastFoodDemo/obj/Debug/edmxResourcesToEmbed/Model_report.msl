@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QLBHModelStoreContainer" CdmEntityContainer="QLBHEntities_Report">
+    <FunctionImportMapping FunctionImportName="GetRevenueByDate" FunctionName="QLBHModel.Store.GetRevenueByDate">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLBHModel.GetRevenueByDate_Result">
+          <ScalarProperty Name="ThangBH" ColumnName="ThangBH" />
+          <ScalarProperty Name="NamBH" ColumnName="NamBH" />
+          <ScalarProperty Name="DoanhThu_TH" ColumnName="DoanhThu_TH" />
+          <ScalarProperty Name="TongGiaSP_TH" ColumnName="TongGiaSP_TH" />
+          <ScalarProperty Name="TongLuong_NV" ColumnName="TongLuong_NV" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QLBHModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="QLBHEntities_Report" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="GetRevenueByDate" ReturnType="Collection(QLBHModel.GetRevenueByDate_Result)">
+      <Parameter Name="Month" Mode="In" Type="Int32" />
+      <Parameter Name="Year" Mode="In" Type="Int32" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="GetRevenueByDate_Result">
+    <Property Type="Int32" Name="ThangBH" Nullable="false" />
+    <Property Type="Int32" Name="NamBH" Nullable="false" />
+    <Property Type="Int32" Name="DoanhThu_TH" Nullable="true" />
+    <Property Type="Int32" Name="TongGiaSP_TH" Nullable="true" />
+    <Property Type="Int32" Name="TongLuong_NV" Nullable="true" />
+  </ComplexType>
+</Schema>
